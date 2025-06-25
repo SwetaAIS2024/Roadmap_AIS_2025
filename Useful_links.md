@@ -76,3 +76,8 @@ interviewing. io
 Hello Interview
 
 If I were interviewing in 2025, this is the only plan I’d follow.
+
+
+## Link : https://www.linkedin.com/feed/update/urn:li:activity:7335155651871916032/ 
+
+- paper link : https://arxiv.org/pdf/2201.00650
