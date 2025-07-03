@@ -1,6 +1,6 @@
 
-# From LinkedIn Posts :
-## Link : https://www.linkedin.com/feed/update/urn:li:activity:7341418473534705664/
+# Rsources and Papers :
+### Link : https://www.linkedin.com/feed/update/urn:li:activity:7341418473534705664/
 
 1️⃣ Coding & Data Structures
 ↳The first filter in every interview: fluency in code and algorithms.
@@ -78,6 +78,14 @@ Hello Interview
 If I were interviewing in 2025, this is the only plan I’d follow.
 
 
-## Link : https://www.linkedin.com/feed/update/urn:li:activity:7335155651871916032/ 
+### Link : https://www.linkedin.com/feed/update/urn:li:activity:7335155651871916032/ 
 
 - paper link : https://arxiv.org/pdf/2201.00650
+
+### Link : https://statistics.laerd.com/statistical-guides/types-of-variable.php
+- for statistics and stuff
+
+### Link : https://tiger-ai-lab.github.io/VideoScore/
+- paper : https://arxiv.org/pdf/2406.15252
+- paper is about good quality video annotation and development of the automatic video metrics 
+- 
