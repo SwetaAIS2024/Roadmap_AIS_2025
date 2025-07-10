@@ -13,7 +13,8 @@
 
 ### Resources for AWS:
 - Example use case for the AWS beanstalk
-- https://aws.amazon.com/blogs/dotnet/deploy-to-elastic-beanstalk-environment-with-github-actions/ 
+- https://aws.amazon.com/blogs/dotnet/deploy-to-elastic-beanstalk-environment-with-github-actions/
+- https://builder.aws.com/content/2dukTdDKgK5BmeYO2ISAT80M1Rx/deploy-your-web-application-with-aws-elastic-beanstalk-and-aws-cdk-pipelines
 
 
 
