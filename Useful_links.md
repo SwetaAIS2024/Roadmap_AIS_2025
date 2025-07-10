@@ -11,11 +11,14 @@
 - https://arxiv.org/pdf/2201.00650
 - https://www.linkedin.com/feed/update/urn:li:activity:7341418473534705664/
 
+### Resources for AWS:
+- Example use case for the AWS beanstalk
+- https://aws.amazon.com/blogs/dotnet/deploy-to-elastic-beanstalk-environment-with-github-actions/ 
 
 
 
 ### Others: 
-#### 1. Link: https://www.linkedin.com/feed/update/urn:li:activity:7341418473534705664/
+#### Link: https://www.linkedin.com/feed/update/urn:li:activity:7341418473534705664/
 
 1️⃣ Coding & Data Structures
 ↳The first filter in every interview: fluency in code and algorithms.
